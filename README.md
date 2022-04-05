@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @amadayami or Amadaya Michael, but you can call me Fen.
+- 👀 I’m interested in video games and cats and making cool programs.
+- 🌱 I’m currently learning HTML and CSS after not using it for a few years.
+- 📫 How to reach me ... @ my work email: amadayamichael@gmail.com
+
+<!---
+amadayami/amadayami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
