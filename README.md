@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amadayami or Amadaya Michael, but you can call me Fen.
 - 👀 I’m passionate video games and cats and making cool programs.
-- 🌱 I’m currently working with HTML, CSS, and Java.
+- 🌱 I’m currently working with Javascript, MySQL, and PHP.
 - 📫 How to reach me ... @ my work email: amadayamichael@gmail.com
 
 <!---
