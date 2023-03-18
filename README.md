@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **My favorite series is Dragon Age and I have two cats**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
