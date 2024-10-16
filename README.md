@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amadaya</h1>
 <h3 align="center">A passionate junior developer who recently graduated</h3>
 
-- 🌱 I’m currently learning **NodeJS** by making my own Discord bot
+- 🌱 I’m currently learning **NodeJS** by making my own [Discord bot](https://github.com/amadayami/amelia-bot)
 
 - 👨‍💻 All of my projects are available at [https://www.armadillo-codes.com/projects.html](https://www.armadillo-codes.com/projects.html)
 
