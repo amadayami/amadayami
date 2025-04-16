@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.armadillo-codes.com/projects.html](https://www.armadillo-codes.com/projects.html)
 
-- 📫 How to reach me **fen@armadillo-codes.com**
+- 📫 How to reach me **amadayamichael@gmail.com**
 
 - ⚡ Fun fact **My favorite series is Dragon Age and I have two cats**
 
